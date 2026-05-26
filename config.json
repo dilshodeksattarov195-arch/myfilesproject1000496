@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercave",
+        "uuid": 1066400,
+        "checksum": "vjdlaf"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
